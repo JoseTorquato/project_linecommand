@@ -8,7 +8,7 @@ import (
 )
 
 func main() {
-	fmt.Println("Iniciando o projeto")
+	fmt.Println("Iniciando buscas ...")
 
 	// instanciando a aplicação no main
 	aplicacao := app.Gerar()
